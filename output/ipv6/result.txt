@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-01 06:14:39,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-09-01 18:25:07,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
@@ -38,8 +38,6 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 
 ☘️广西频道,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
