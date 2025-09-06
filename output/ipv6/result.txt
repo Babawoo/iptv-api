@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-06 06:13:43,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-09-06 18:14:19,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
@@ -88,7 +88,6 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🎬电影频道,#genre#
-CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630
 
 🏀体育频道,#genre#
 
