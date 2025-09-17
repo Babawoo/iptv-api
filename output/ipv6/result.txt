@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-17 06:12:37,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-09-17 18:16:49,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
@@ -62,6 +62,5 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 🎵音乐频道,#genre#
