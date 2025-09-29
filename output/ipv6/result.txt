@@ -1,12 +1,43 @@
 🕘️更新时间,#genre#
-2025-09-29 18:18:10,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-09-30 06:15:52,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📡卫视频道,#genre#
+广东卫视,https://cc06.tv12.xyz/43.m3u8
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+浙江卫视,https://cc06.tv12.xyz/117.m3u8
+湖南卫视,https://cc06.tv12.xyz/57.m3u8
+北京卫视,https://cc06.tv12.xyz/27.m3u8
+湖北卫视,https://cc06.tv12.xyz/50.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+黑龙江卫视,https://cc06.tv12.xyz/53.m3u8
+安徽卫视,https://cc06.tv12.xyz/26.m3u8
+重庆卫视,https://cc06.tv12.xyz/34.m3u8
+东方卫视,https://cc06.tv12.xyz/37.m3u8
+东南卫视,https://cc06.tv12.xyz/38.m3u8
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8
+广西卫视,https://cc06.tv12.xyz/46.m3u8
+贵州卫视,https://cc06.tv12.xyz/48.m3u8
+海南卫视,https://cc06.tv12.xyz/93.m3u8
+河北卫视,https://cc06.tv12.xyz/51.m3u8
+河南卫视,https://cc06.tv12.xyz/49.m3u8
+吉林卫视,https://cc06.tv12.xyz/60.m3u8
+江苏卫视,https://cc06.tv12.xyz/61.m3u8
+江西卫视,https://cc06.tv12.xyz/62.m3u8
+辽宁卫视,https://cc06.tv12.xyz/70.m3u8
+内蒙古卫视,https://cc06.tv12.xyz/94.m3u8
+宁夏卫视,https://cc06.tv12.xyz/96.m3u8
+青海卫视,https://cc06.tv12.xyz/97.m3u8
+山东卫视,https://cc06.tv12.xyz/101.m3u8
+山西卫视,https://cc06.tv12.xyz/107.m3u8
+陕西卫视,https://cc06.tv12.xyz/106.m3u8
+四川卫视,https://cc06.tv12.xyz/99.m3u8
+深圳卫视,https://cc06.tv12.xyz/108.m3u8
+西藏卫视,https://cc06.tv12.xyz/112.m3u8
+新疆卫视,https://cc06.tv12.xyz/109.m3u8
+云南卫视,https://cc06.tv12.xyz/114.m3u8
 
 ☘️广东频道,#genre#
 
@@ -24,9 +55,10 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 ☘️广西频道,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 
+☘️天津频道,#genre#
+
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -47,6 +79,7 @@ CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u
 ☘️安徽频道,#genre#
 
 ☘️吉林频道,#genre#
+延边卫视,https://cc06.tv12.xyz/113.m3u8
 
 ☘️青海频道,#genre#
 
@@ -57,7 +90,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
+天元围棋,https://cc06.tv12.xyz/47.m3u8
+快乐垂钓,https://cc06.tv12.xyz/56.m3u8
 
 🪁动画频道,#genre#
+金鹰卡通,https://cc06.tv12.xyz/55.m3u8
 
 🎵音乐频道,#genre#
