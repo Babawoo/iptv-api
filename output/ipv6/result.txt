@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:15:42,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+2025-11-01 06:15:37,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 
 📺央视频道,#genre#
 
@@ -16,6 +16,8 @@
 ☘️上海频道,#genre#
 
 ☘️重庆频道,#genre#
+
+☘️江苏频道,#genre#
 
 ☘️湖北频道,#genre#
 
@@ -46,6 +48,8 @@
 ☘️吉林频道,#genre#
 
 ☘️青海频道,#genre#
+
+☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
