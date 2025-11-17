@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:17:33,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+2025-11-18 06:14:20,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 📡卫视频道,#genre#
 
@@ -23,6 +23,7 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
