@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:14:36,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+2025-11-20 18:16:36,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 📡卫视频道,#genre#
 
@@ -29,9 +29,6 @@
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️河南频道,#genre#
-洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
-洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 
 ☘️河北频道,#genre#
 
