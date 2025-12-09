@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-09 18:17:49,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+2025-12-10 06:16:16,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+
+📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
@@ -10,6 +12,9 @@
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -48,6 +53,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
 
