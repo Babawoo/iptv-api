@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-14 18:14:38,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-15 06:14:06,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📡卫视频道,#genre#
 
@@ -21,6 +21,7 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 
@@ -51,5 +52,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
+
+🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
