@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-26 18:16:48,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-27 06:15:32,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📡卫视频道,#genre#
 
@@ -23,6 +23,7 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 
