@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-03 18:15:30,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+2026-01-04 06:14:11,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+
+📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
@@ -42,7 +44,6 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🎬电影频道,#genre#
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
 
