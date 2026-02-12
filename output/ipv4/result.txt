@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-12 18:38:34,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-13 06:25:33,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -26,8 +26,8 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
@@ -54,7 +54,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 ☘️江苏频道,#genre#
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 
 ☘️广西频道,#genre#
 
