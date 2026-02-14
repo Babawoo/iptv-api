@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-14 06:29:36,https://cdn3.163189.xyz/163189/cctv13
+2026-02-14 18:20:14,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -55,4 +55,3 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🏛经典剧场,#genre#
 封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
