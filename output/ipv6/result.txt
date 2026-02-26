@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-26 18:39:29,https://cdn3.163189.xyz/163189/cctv13
+2026-02-27 06:27:26,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -46,7 +46,5 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🏀体育频道,#genre#
-
-🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
