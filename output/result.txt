@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-02 06:17:04,https://cdn3.163189.xyz/163189/cctv13
+2026-03-02 18:38:06,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -43,6 +43,9 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+
+☘️福建频道,#genre#
+厦门卫视,http://125.42.148.233:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️河南频道,#genre#
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
