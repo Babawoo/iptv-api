@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-23 19:05:07,https://cdn3.163189.xyz/163189/cctv13
+2026-05-24 06:45:05,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📺央视频道,#genre#
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📡卫视频道,#genre#
@@ -22,6 +21,7 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️河北频道,#genre#
 
