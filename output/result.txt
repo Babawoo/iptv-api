@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-21 20:08:13,http://198.204.240.250:82/live/cctv6.m3u8
+2026-06-22 07:04:04,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
@@ -51,9 +51,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-
-🪁动画频道,#genre#
-金鹰卡通,http://125.42.151.149:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
