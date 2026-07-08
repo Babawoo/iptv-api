@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-08 06:55:35,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+2026-07-08 19:46:45,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
@@ -13,10 +15,10 @@
 
 ☘️重庆频道,#genre#
 
-☘️江苏频道,#genre#
-
 ☘️广西频道,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -42,5 +44,7 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
