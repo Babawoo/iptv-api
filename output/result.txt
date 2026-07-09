@@ -1,27 +1,17 @@
 🕘️更新时间,#genre#
-2026-07-09 06:58:34,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-09 20:39:25,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.42.151.116:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://123.163.114.168:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://123.163.114.168:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://123.163.114.168:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://123.163.114.168:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://125.42.151.116:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-吉林卫视,http://101.66.198.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-
-☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
@@ -60,9 +50,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-
-🪁动画频道,#genre#
-金鹰卡通,http://125.42.151.116:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
